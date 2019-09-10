@@ -4,3 +4,5 @@ la funcionalidad de Git.
 Comenzando a trabajar con Git.
 
 Este archivo ya fue añadido a Git.
+
+Hablaremos de vida y obra maestra.
