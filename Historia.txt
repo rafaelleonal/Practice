@@ -3,4 +3,4 @@ la funcionalidad de Git.
 
 Comenzando a trabajar con Git.
 
-Este archivo ya fue añadido Git.
+Este archivo ya fue añadido a Git.
