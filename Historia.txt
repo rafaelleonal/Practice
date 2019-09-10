@@ -1,3 +1,6 @@
-Este archivo pretende ser utilizado para comprender la funcionalidad de Git.
+Este archivo pretende ser utilizado para comprender 
+la funcionalidad de Git.
 
 Comenzando a trabajar con Git.
+
+Este archivo ya fue añadido Git.
