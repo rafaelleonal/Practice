@@ -5,4 +5,4 @@ Comenzando a trabajar con Git.
 
 Este archivo ya fue añadido a Git.
 
-Hablaremos de vida y obra maestra.
+Mañana nos enfocaremos en su vida laboral.
